@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1978.0, 171.0, 1466.0, 711.0 ],
+		"rect" : [ 34.0, 77.0, 1852.0, 929.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1709,166 +1709,10 @@
 					"clipheight" : 20.0,
 					"data" : 					{
 						"clips" : [ 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\17.mp3",
-								"filename" : "17.mp3",
-								"filekind" : "audiofile",
-								"id" : "u083001240",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\18.mp3",
-								"filename" : "18.mp3",
-								"filekind" : "audiofile",
-								"id" : "u288001220",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\19.mp3",
-								"filename" : "19.mp3",
-								"filekind" : "audiofile",
-								"id" : "u300001221",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\20.mp3",
-								"filename" : "20.mp3",
-								"filekind" : "audiofile",
-								"id" : "u181001222",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\21.mp3",
-								"filename" : "21.mp3",
-								"filekind" : "audiofile",
-								"id" : "u015001223",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\1.mp3",
-								"filename" : "1.mp3",
-								"filekind" : "audiofile",
-								"id" : "u447001224",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\2.mp3",
-								"filename" : "2.mp3",
-								"filekind" : "audiofile",
-								"id" : "u187001225",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\3.mp3",
-								"filename" : "3.mp3",
-								"filekind" : "audiofile",
-								"id" : "u209001226",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\4.mp3",
-								"filename" : "4.mp3",
-								"filekind" : "audiofile",
-								"id" : "u612001227",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\5.mp3",
-								"filename" : "5.mp3",
-								"filekind" : "audiofile",
-								"id" : "u023001228",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\6.mp3",
-								"filename" : "6.mp3",
-								"filekind" : "audiofile",
-								"id" : "u856001229",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\7.mp3",
-								"filename" : "7.mp3",
-								"filekind" : "audiofile",
-								"id" : "u605001230",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\8.mp3",
-								"filename" : "8.mp3",
-								"filekind" : "audiofile",
-								"id" : "u460001231",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 0,
-								"content_state" : 								{
-									"loop" : 0
-								}
-
-							}
-, 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\9.mp3",
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\9.mp3",
 								"filename" : "9.mp3",
 								"filekind" : "audiofile",
-								"id" : "u292001232",
+								"id" : "u079000490",
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
@@ -1877,10 +1721,118 @@
 
 							}
 , 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\10.mp3",
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\21.mp3",
+								"filename" : "21.mp3",
+								"filekind" : "audiofile",
+								"id" : "u031000430",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\2.mp3",
+								"filename" : "2.mp3",
+								"filekind" : "audiofile",
+								"id" : "u571000411",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\3.mp3",
+								"filename" : "3.mp3",
+								"filekind" : "audiofile",
+								"id" : "u032000412",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\4.mp3",
+								"filename" : "4.mp3",
+								"filekind" : "audiofile",
+								"id" : "u048000413",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\5.mp3",
+								"filename" : "5.mp3",
+								"filekind" : "audiofile",
+								"id" : "u949000414",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\6.mp3",
+								"filename" : "6.mp3",
+								"filekind" : "audiofile",
+								"id" : "u959000415",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\7.mp3",
+								"filename" : "7.mp3",
+								"filekind" : "audiofile",
+								"id" : "u297000416",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\8.mp3",
+								"filename" : "8.mp3",
+								"filekind" : "audiofile",
+								"id" : "u207000417",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\9.mp3",
+								"filename" : "9.mp3",
+								"filekind" : "audiofile",
+								"id" : "u388000418",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\10.mp3",
 								"filename" : "10.mp3",
 								"filekind" : "audiofile",
-								"id" : "u328001233",
+								"id" : "u608000419",
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
@@ -1889,10 +1841,10 @@
 
 							}
 , 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\11.mp3",
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\11.mp3",
 								"filename" : "11.mp3",
 								"filekind" : "audiofile",
-								"id" : "u464001234",
+								"id" : "u792000420",
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
@@ -1901,10 +1853,10 @@
 
 							}
 , 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\12.mp3",
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\12.mp3",
 								"filename" : "12.mp3",
 								"filekind" : "audiofile",
-								"id" : "u890001235",
+								"id" : "u806000421",
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
@@ -1913,10 +1865,10 @@
 
 							}
 , 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\13.mp3",
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\13.mp3",
 								"filename" : "13.mp3",
 								"filekind" : "audiofile",
-								"id" : "u724001236",
+								"id" : "u359000422",
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
@@ -1925,10 +1877,10 @@
 
 							}
 , 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\14.mp3",
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\14.mp3",
 								"filename" : "14.mp3",
 								"filekind" : "audiofile",
-								"id" : "u826001237",
+								"id" : "u748000423",
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
@@ -1937,10 +1889,10 @@
 
 							}
 , 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\15.mp3",
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\15.mp3",
 								"filename" : "15.mp3",
 								"filekind" : "audiofile",
-								"id" : "u191001238",
+								"id" : "u891000424",
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
@@ -1949,10 +1901,58 @@
 
 							}
 , 							{
-								"absolutepath" : "C:\\Users\\diana\\Desktop\\EmpatieTTS\\Tracks\\16.mp3",
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\16.mp3",
 								"filename" : "16.mp3",
 								"filekind" : "audiofile",
-								"id" : "u033001239",
+								"id" : "u939000425",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\17.mp3",
+								"filename" : "17.mp3",
+								"filekind" : "audiofile",
+								"id" : "u942000426",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\18.mp3",
+								"filename" : "18.mp3",
+								"filekind" : "audiofile",
+								"id" : "u954000427",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\19.mp3",
+								"filename" : "19.mp3",
+								"filekind" : "audiofile",
+								"id" : "u381000428",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\Users\\HP\\Desktop\\empaTHY\\EmpathyProject-main\\AudioTracks\\20.mp3",
+								"filename" : "20.mp3",
+								"filekind" : "audiofile",
+								"id" : "u871000429",
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
@@ -3901,149 +3901,142 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "1.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
-				"type" : "Mp3",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "10.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "11.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "12.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "13.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "14.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "15.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "16.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "17.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "18.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "19.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "2.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "20.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "21.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "3.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "4.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "5.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "6.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "7.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "8.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "9.mp3",
-				"bootpath" : "~/Desktop/EmpatieTTS/Tracks",
-				"patcherrelativepath" : "./EmpatieTTS/Tracks",
+				"bootpath" : "~/Desktop/empaTHY/EmpathyProject-main/AudioTracks",
+				"patcherrelativepath" : "../../empaTHY/EmpathyProject-main/AudioTracks",
 				"type" : "Mp3",
 				"implicit" : 1
 			}
